@@ -1,1 +1,1 @@
-Assignments completed for Computing Foundations 2 (C++)
+Assignments completed for CSCE 2110 - Computing Foundations 2 (C++)
